@@ -1,4 +1,7 @@
+<<<<<<< HEAD
   
+=======
+>>>>>>> e20ea752dcc568b6027624359cf65e908de90720
 import pymysql
 
 conn =pymysql.connect(database="db1",user="Aparna",password="123",host="localhost")
